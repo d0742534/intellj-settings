@@ -1,0 +1,41 @@
+<application>
+  <component name="Perl5ApplicationSettings">
+    <option name="pluginVersion" value="2020.2.4" />
+    <option name="popupShown" value="true" />
+  </component>
+  <component name="PerlInterpreters">
+    <perl version="2">
+      <name value="Local, Plenv[5.32.0]: Perl 5.32.0" />
+      <type value="Perl5 Interpreter" />
+      <version value="5.32.0 for darwin-2level" />
+      <homePath value="$USER_HOME$/.plenv/versions/5.32.0/bin/perl" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.plenv/versions/5.32.0/lib/perl5/site_perl/5.32.0/darwin-2level" type="simple" />
+            <root url="file://$USER_HOME$/.plenv/versions/5.32.0/lib/perl5/site_perl/5.32.0" type="simple" />
+            <root url="file://$USER_HOME$/.plenv/versions/5.32.0/lib/perl5/5.32.0/darwin-2level" type="simple" />
+            <root url="file://$USER_HOME$/.plenv/versions/5.32.0/lib/perl5/5.32.0" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <host id="localhost" />
+        <implementation id="porters" />
+        <versionManager id="plenv">
+          <versionManagerPath>$USER_HOME$/.plenv/bin/plenv</versionManagerPath>
+          <perlVersion>5.32.0</perlVersion>
+        </versionManager>
+      </additional>
+    </perl>
+  </component>
+</application>
