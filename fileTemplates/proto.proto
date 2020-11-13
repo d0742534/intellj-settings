@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package ${PACKAGE_NAME};
+
+import "common/Response.proto";
+    
+option java_multiple_files = true;
