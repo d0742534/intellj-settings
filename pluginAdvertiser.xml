@@ -2389,6 +2389,16 @@
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="FlashRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Flash App" pluginName="Flash/Flex" pluginId="com.intellij.flex" />
+                    </value>
+                  </entry>
+                  <entry key="FlexUnitRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="FlexUnit" pluginName="Flash/Flex" pluginId="com.intellij.flex" />
+                    </value>
+                  </entry>
                   <entry key="GlassfishConfiguration">
                     <value>
                       <FeaturePluginData displayName="GlassFish Server" pluginName="GlassFish" pluginId="GlassFish" />
@@ -2522,6 +2532,11 @@
                   <entry key="Remote">
                     <value>
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" />
+                    </value>
+                  </entry>
+                  <entry key="RemoteFlashRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Flash Remote Debug" pluginName="Flash/Flex" pluginId="com.intellij.flex" />
                     </value>
                   </entry>
                   <entry key="ShConfigurationType">
